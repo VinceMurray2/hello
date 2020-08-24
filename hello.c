@@ -12,6 +12,7 @@
      printf("Vince Murray!\n");
      printf("Computer Science and Math!\n");
      printf("Calvin Hotz!\n");
+     printf("Computer Science\n");
 
      return 0;
 
