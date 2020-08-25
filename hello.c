@@ -2,7 +2,7 @@
  * Author Vincent Murray
  * Date 8/17/2020
  *
- * Github collaborative hack to clone/push/pull files
+ * Github collaborative hack to clone/push/pull files with partner
  */
  #include <stdlib.h>
  #include <stdio.h>
