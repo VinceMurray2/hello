@@ -2,7 +2,7 @@
  * Author Vincent Murray
  * Date 8/17/2020
  *
- * A simple hello word program
+ * Github collaborative hack to clone/push/pull files
  */
  #include <stdlib.h>
  #include <stdio.h>
